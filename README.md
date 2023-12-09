@@ -1,8 +1,6 @@
 # 💫 About Me:
-👩🏻‍🔧 studying mechatronics in Kocaeli University<br>🖥️ software student in 42Kocaeli<br>🎨 learning graphic design<br>🤳🏼 digital creator on social media<br>🧳 free time activity is traveling
 
-![image](https://github.com/seykaraca/seykaraca/assets/122638531/7bfdd636-131d-4816-9a25-d3c6c804402a)
-03af)
+![image](https://github.com/seykaraca/seykaraca/assets/122638531/7bfdd636-131d-4816-9a25-d3c6c804402a) 👩🏻‍🔧 studying mechatronics in Kocaeli University<br>🖥️ software student in 42Kocaeli<br>🎨 learning graphic design<br>🤳🏼 digital creator on social media<br>🧳 free time activity is traveling
 
 
 ## 🌐 Socials:
