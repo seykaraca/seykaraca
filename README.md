@@ -1,8 +1,4 @@
-(img align="right" alt="Coding" width="200" src="https://giphy.com/gifs/Atami-atami-nature-lovers-grow-like-a-pro-MuCF8yZPwSasj4SJJv")
-
-
 # 💫 About Me:
-
 👩🏻‍🔧 studying mechatronics in Kocaeli University<br>🖥️ software student in 42Kocaeli<br>🎨 learning graphic design<br>🤳🏼 digital creator on social media<br>🧳 free time activity is traveling
 
 
