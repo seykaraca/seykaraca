@@ -1,6 +1,8 @@
 # 💫 About Me:
 👩🏻‍🔧 studying mechatronics in Kocaeli University<br>🖥️ software student in 42Kocaeli<br>🎨 learning graphic design<br>🤳🏼 digital creator on social media<br>🧳 free time activity is traveling
 
+https://giphy.com/gifs/Atami-atami-nature-lovers-grow-like-a-pro-MuCF8yZPwSasj4SJJv
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seymakkrcc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sekaraca) 
