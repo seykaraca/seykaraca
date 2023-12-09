@@ -1,4 +1,4 @@
-<img align="middle" alt="GIF" src="https://github.com/seykaraca/seykaraca/assets/122638531/7bfdd636-131d-4816-9a25-d3c6c804402a" width="150" height="150" />
+(img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/116207...")
 
 
 # 💫 About Me:
