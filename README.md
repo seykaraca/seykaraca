@@ -1,6 +1,8 @@
+![image](https://github.com/seykaraca/seykaraca/assets/122638531/7bfdd636-131d-4816-9a25-d3c6c804402a)
+
 # 💫 About Me:
 
-![image](https://github.com/seykaraca/seykaraca/assets/122638531/7bfdd636-131d-4816-9a25-d3c6c804402a) 👩🏻‍🔧 studying mechatronics in Kocaeli University<br>🖥️ software student in 42Kocaeli<br>🎨 learning graphic design<br>🤳🏼 digital creator on social media<br>🧳 free time activity is traveling
+👩🏻‍🔧 studying mechatronics in Kocaeli University<br>🖥️ software student in 42Kocaeli<br>🎨 learning graphic design<br>🤳🏼 digital creator on social media<br>🧳 free time activity is traveling
 
 
 ## 🌐 Socials:
@@ -10,8 +12,6 @@
 # 💻 Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=seykaraca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
