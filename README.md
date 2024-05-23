@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍🔧 studying mechatronics in Kocaeli University<br>🖥️ software student in 42Kocaeli<br>🎨 learning graphic design<br>🤳🏼 digital creator on social media<br>🧳 free time activity is traveling
+👩🏻‍🔧 studying mechatronics in Kocaeli University<br>🖥️ software student in 42Kocaeli<br>
 
 
 ## 🌐 Socials:
