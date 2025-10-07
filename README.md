@@ -31,13 +31,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
----
-
-## 🚀 Projects
-- [Smart Home System](#): IoT project using Arduino, C++ and Node.js.  
-- [Portfolio Website](#): Built with TypeScript, Tailwind CSS, and Docker.  
-- [Real-time Chat App](#): Socket.io + Node.js application for messaging.  
-- [Automation Dashboard](#): Monitoring and control dashboard using Python & Docker.  
 
 ---
 
