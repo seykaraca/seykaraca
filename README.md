@@ -1,5 +1,3 @@
-<img src="[https://raw.githubusercontent.com/seykaraca/seykaraca/main/banner.png](https://github.com/seykaraca/png/blob/main/Itaewon%20Class%20Stickers%20for%20Sale.png)" align="right" width="150" />
-
 # 🌙 Welcome to Danbam World! 
 
 🎓 **Mechatronics Technician | Software Developer | Digital Content Designer**
