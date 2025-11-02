@@ -9,12 +9,12 @@
 ## 🚀 Hakkımda / About Me
 
 🇹🇷 Kocaeli Üniversitesi **Mekatronik Ön Lisans** mezunuyum.  
-**42  Türkiye Yazılım Okulu **'de *Common Core* sürecini tamamladım.  
+42  Türkiye Yazılım Okulu'nda *Common Core* sürecini tamamladım.  
 Mekatronik ve yazılım alanlarını birleştirerek hem donanım hem de yazılım projeleri geliştiriyorum.  
 Yeni teknolojiler öğrenmekten ve üretken sistemler tasarlamaktan keyif alıyorum.  
 
 🇬🇧 I graduated from **Kocaeli University**, Mechatronics Program.  
-I completed the *Common Core* process at **42 Türkiye Software School **.  
+I completed the *Common Core* process at 42 Türkiye Software School.  
 I enjoy combining mechatronics and software to create both hardware and software projects.  
 I’m passionate about learning new technologies and designing productive, efficient systems.
 
