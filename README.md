@@ -1,50 +1,55 @@
-# 💫 About Me
-👩🏻‍🔧 Mechatronics Technician | Software Enthusiast  
-🎓 Completed Common Core at 42 Türkiye  
-🖥️ Passionate about building scalable web apps, embedded systems, and exploring technologies like Docker, Nginx, TypeScript, Tailwind CSS, C/C++  
+<img src="[https://raw.githubusercontent.com/seykaraca/seykaraca/main/banner.png](https://github.com/seykaraca/png/blob/main/Itaewon%20Class%20Stickers%20for%20Sale.png)" align="right" width="150" />
+
+# 🌙 Welcome to Danbam World! 
+
+🎓 **Mechatronics Technician | Software Developer | Digital Content Designer**
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sekaraca) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seymakkrcc)
+## 🚀 Hakkımda / About Me
+
+🇹🇷 Kocaeli Üniversitesi **Mekatronik Ön Lisans** mezunuyum.  
+**42  Türkiye Yazılım Okulu **'de *Common Core* sürecini tamamladım.  
+Mekatronik ve yazılım alanlarını birleştirerek hem donanım hem de yazılım projeleri geliştiriyorum.  
+Yeni teknolojiler öğrenmekten ve üretken sistemler tasarlamaktan keyif alıyorum.  
+
+🇬🇧 I graduated from **Kocaeli University**, Mechatronics Program.  
+I completed the *Common Core* process at **42 Türkiye Software School **.  
+I enjoy combining mechatronics and software to create both hardware and software projects.  
+I’m passionate about learning new technologies and designing productive, efficient systems.
 
 ---
 
-## 💻 Skills
+**🧠 Programming Languages:**  
+C, C++, TypeScript, JavaScript  
 
-### Languages & Frameworks
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**⚙️ Tools & Technologies:**  
+Docker, Makefile, Git, Virtual Machines, SQLite  
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**🤖 Mechatronics & Hardware:**  
+Arduino, Proteus, SolidWorks  
 
+## 💻 42 Türkiye Experience  
+🇹🇷 42’de bireysel ve takım projeleriyle; sanal makine kurulumu, sistem programlama, socket bağlantıları ve docker-dockerfile yönetimi gibi konularda deneyim kazandım.  
+🇬🇧 At 42, I gained hands-on experience in setting up virtual machines, system programming, socket connections, and managing docker-dockerfile through both individual and team projects.
+
+**🎨 Digital Design:**  
+Adobe Premiere Pro, After Effects, Photoshop, Adobe InDesign, Adobe Illustrator
+*(Video editing, motion design, and digital media production)*  
 
 ---
 
-## 🎯 Fun Facts
-- Coffee enthusiast ☕  
-- Amateur graphic designer 🎨  
-- Always exploring new tech and open-source projects 🚀  
+## 🌍 Languages  
+- 🇬🇧 **English** — İleri / Advanced  
+- 🇰🇷 **Korean** — Orta / Intermediate  
+- 🇩🇪 **German** — Orta / Intermediate  
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=seykaraca&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seykaraca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📫 Contact Me  
 
----
+📧 **seymaakaracaa@outlook.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/sekaraca)  
+📸 [Instagram](https://www.instagram.com/seymakkrcc)  
+🌐 [GitHub Profilim / My GitHub Profile](https://github.com/seykaraca)
 
-[![](https://visitcount.itsvg.in/api?id=seykaraca&icon=0&color=0)](https://visitcount.itsvg.in)
