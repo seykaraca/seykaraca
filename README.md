@@ -3,7 +3,7 @@
 🎓 **Mechatronics Technician | Software Developer | Digital Content Designer**
 
 ## 🚀About Me
-🇬🇧 I graduated from **Kocaeli University**, Mechatronics Program.  
+👩🏻‍💻 I graduated from **Kocaeli University**, Mechatronics Program.  
 I completed the *Common Core* process at 42 Türkiye Software School.  
 I enjoy combining mechatronics and software to create both hardware and software projects.  
 I’m passionate about learning new technologies and designing productive, efficient systems.
@@ -18,7 +18,7 @@ Docker, Makefile, Git, Virtual Machines, SQLite
 Arduino, Proteus, SolidWorks  
 
 ## 💻 42 Türkiye Experience  
-🇬🇧 At 42, I gained hands-on experience in setting up virtual machines, system programming, socket connections, and managing docker-dockerfile through both individual and team projects.
+👩🏻‍💻 At 42, I gained hands-on experience in setting up virtual machines, system programming, socket connections, and managing docker-dockerfile through both individual and team projects.
 
 **🎨 Digital Design:**  
 Adobe Premiere Pro, After Effects, Photoshop, Adobe InDesign, Adobe Illustrator
